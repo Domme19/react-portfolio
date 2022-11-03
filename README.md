@@ -4,4 +4,4 @@
 
 ###
 
--A link to the deployed version:
+-A link to the deployed version: https://dieuveillesitedeployed.netlify.app
